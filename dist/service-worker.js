@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.900edb774fe482ac0d0d542a95579222.js"
+  "/dist/precache-manifest.900edb774fe482ac0d0d542a95579222.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "rakeshs-flock.github.io"});
